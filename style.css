@@ -102,6 +102,12 @@ footer {
   left: 0;
 }
 
+#bottom-left {
+  position: fixed;
+  bottom: 50px;
+  left: 50px;
+}
+
 #bottom-right {
   position: fixed;
   bottom: 50px;
